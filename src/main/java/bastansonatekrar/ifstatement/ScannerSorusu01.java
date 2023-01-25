@@ -22,7 +22,7 @@ sonuç : 5.333333333333333
         int b=scanner.nextInt();
         System.out.print("c sayısnını giriniz : ");
         int c=scanner.nextInt();
-        double sunuc=((a*a)-(b*b))/(3*c)   ;
-        System.out.println("işleminizn sonucu :"+sunuc);
+        double sonuc=((a*a)-(b*b))/(3*c)   ;
+        System.out.println("işleminizn sonucu :"+sonuc);
     }
 }
